@@ -78,4 +78,4 @@ You can view an image's metadata annotation by browsing to:
 #### 2. Selecting the target image.
 #### 3. Selecting the Annotations tab.
 
-![codefresh](./images/codefresh_image_annotations.png)
+![codefresh](./images/codefresh_image_metadata.png)
